@@ -1,0 +1,15 @@
+{
+  "Group": "Firee",
+  "Name": "Tpa",
+  "Version": "1.0.0",
+  "Description": "A simple tpa plugin for your server!",
+  "Main": "dev.firee.TpaPlugin",
+  "Authors": [
+    {
+      "Name": "Firee",
+      "Url": "https://github.com/FireMario211"
+    }
+  ],
+  "Website": "https://firee.dev",
+  "ServerVersion": "*"
+}
